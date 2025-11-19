@@ -11,7 +11,7 @@ from tensorflow.keras.layers import Dense, Dropout, GlobalAveragePooling2D
 import matplotlib.pyplot as plt
 import numpy as np
 import os
-
+    
 # --- 3. Define Parameters ---
 IMAGE_SIZE = 224    
 BATCH_SIZE = 32
