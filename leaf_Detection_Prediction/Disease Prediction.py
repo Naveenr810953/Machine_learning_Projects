@@ -17,7 +17,7 @@ BATCH_SIZE = 32
 EPOCHS = 15  # Using 15 for a good balance of speed and accuracy
 CHANNELS = 3
 
-print(" Part 1: Setup Complete.")
+print(" Part 1: Setup Complete.")  
 
 
 # --- 1. Load the 'plant_village' Dataset from the Web ---
