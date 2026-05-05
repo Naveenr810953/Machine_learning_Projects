@@ -2,7 +2,7 @@
 !pip install tensorflow_datasets
 
 # --- 2. Import All Necessary Libraries ---
-import tensorflow as tf
+import tensorflow as tf. 
 import tensorflow_datasets as tfds
 from tensorflow.keras import layers, models, applications       
 from tensorflow.keras.models import Sequential    
